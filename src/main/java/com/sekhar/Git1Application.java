@@ -10,4 +10,7 @@ public class Git1Application {
 		SpringApplication.run(Git1Application.class, args);
 	}
 
+	public String getall() {
+		return "hi";
+	}
 }
